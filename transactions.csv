@@ -1,0 +1,5 @@
+Transaction ID,Date,Account Number,Amount,Transaction Type,Description
+1,01-01-2024,123456,1000,Credit,Salary Payment
+2,02-01-2024,123457,150,Debit,Grocery Shopping
+3,03-01-2024,123458,2000,Credit,Invoice Payment
+4,04-01-2024,123459,500,Debit,Online Purchase
